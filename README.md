@@ -1,1 +1,1 @@
-# AI-and-ML-project
+# AI-and-ML-project (heart-disease-prediction)
